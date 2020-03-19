@@ -60149,7 +60149,7 @@ if(n==null)n=$.hf=new Y.kV(V.kW())
 t=H.b([],u.d)
 s=H.b([],u.u)
 r=H.b([],u.Cj)
-q=new V.lL(U.CS(B.BF("https://119.29.108.170:8888/pmp_web_api",6e4,1e4)))
+q=new V.lL(U.CS(B.BF("http://119.29.108.170:8888/pmp_web_api",6e4,1e4)))
 q.kk()
 return new D.yU(p,new E.dL("","",""),new B.ke(0,"",""),new B.ke(0,"",""),new H.bW(u.iH),o,n,new D.mw(0,!0,1,0,t,new R.a8(s,u.A)),r,q,null,C.m)}}
 D.yU.prototype={
@@ -60611,7 +60611,7 @@ this.cE$=null}this.jf()}}
 G.mh.prototype={
 af:function(){var t,s=$.hf
 if(s==null)s=$.hf=new Y.kV(V.kW())
-t=new V.lL(U.CS(B.BF("https://119.29.108.170:8888/pmp_web_api",6e4,1e4)))
+t=new V.lL(U.CS(B.BF("http://119.29.108.170:8888/pmp_web_api",6e4,1e4)))
 t.kk()
 return new G.zf(new E.dL("","",""),s,t,C.m)}}
 G.zf.prototype={
@@ -60963,7 +60963,7 @@ $S:0}
 G.l_.prototype={
 af:function(){var t,s=$.hf
 if(s==null)s=$.hf=new Y.kV(V.kW())
-t=new V.lL(U.CS(B.BF("https://119.29.108.170:8888/pmp_web_api",6e4,1e4)))
+t=new V.lL(U.CS(B.BF("http://119.29.108.170:8888/pmp_web_api",6e4,1e4)))
 t.kk()
 return new G.MC(s,t,C.m)}}
 G.MC.prototype={
@@ -61088,7 +61088,7 @@ $S:4}
 Q.np.prototype={
 af:function(){var t,s=$.hf
 if(s==null)s=$.hf=new Y.kV(V.kW())
-t=new V.lL(U.CS(B.BF("https://119.29.108.170:8888/pmp_web_api",6e4,1e4)))
+t=new V.lL(U.CS(B.BF("http://119.29.108.170:8888/pmp_web_api",6e4,1e4)))
 t.kk()
 return new Q.Np(new E.dL("","",""),s,t,null,C.m)}}
 Q.Np.prototype={
@@ -61371,7 +61371,7 @@ D.fs.prototype={}
 T.mx.prototype={
 af:function(){var t,s=$.hf
 if(s==null)s=$.hf=new Y.kV(V.kW())
-t=new V.lL(U.CS(B.BF("https://119.29.108.170:8888/pmp_web_api",6e4,1e4)))
+t=new V.lL(U.CS(B.BF("http://119.29.108.170:8888/pmp_web_api",6e4,1e4)))
 t.kk()
 return new T.L9(s,t,null,C.m)}}
 T.L9.prototype={
