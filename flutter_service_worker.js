@@ -7,14 +7,14 @@ const RESOURCES = {
 "assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
 "assets/fonts/MaterialIcons-Regular.otf": "1288c9e28052e028aba623321f7826ac",
 "assets/images/razer_logo.png": "032b3795f316d8da6faab3aba3d7093b",
-"assets/NOTICES": "7f34f9cb15dafc94ec427a7fe9af70e5",
+"assets/NOTICES": "589db6f8e084eb90584ff3455e387ef7",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "6d342eb68f170c97609e9da345464e5e",
 "favicon.png": "62e244f0e83edc53008ff3db994b42ca",
 "icons/Icon-192.png": "62e244f0e83edc53008ff3db994b42ca",
 "icons/Icon-512.png": "d5cc421e532a1c7e4cbd92102a16892c",
-"index.html": "f246d0e04e654997d2d81b1cfa3f8dc2",
-"/": "f246d0e04e654997d2d81b1cfa3f8dc2",
-"main.dart.js": "c23ea575d296f6f0cbe4bf5b7a0dd362",
+"index.html": "993e3d50a968a258395bdae8cfd43a4a",
+"/": "993e3d50a968a258395bdae8cfd43a4a",
+"main.dart.js": "93232d91a79857d5358eb17439605ea4",
 "manifest.json": "e4be876827f8f9c7d4ae95b9c2bb9928",
 "version.json": "bc20b87cbef486725b8453fb912da3c7"
 };
