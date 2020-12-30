@@ -7,16 +7,16 @@ const RESOURCES = {
 "assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
 "assets/fonts/MaterialIcons-Regular.otf": "1288c9e28052e028aba623321f7826ac",
 "assets/images/razer_logo.png": "032b3795f316d8da6faab3aba3d7093b",
-"assets/NOTICES": "589db6f8e084eb90584ff3455e387ef7",
+"assets/NOTICES": "7b7c7f0a68438495cec394432e77b1f9",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "6d342eb68f170c97609e9da345464e5e",
 "favicon.png": "62e244f0e83edc53008ff3db994b42ca",
 "icons/Icon-192.png": "62e244f0e83edc53008ff3db994b42ca",
 "icons/Icon-512.png": "d5cc421e532a1c7e4cbd92102a16892c",
-"index.html": "0f39b2ff111583a985b35aa5e816d838",
-"/": "0f39b2ff111583a985b35aa5e816d838",
-"main.dart.js": "8c8930affcee0fcb7f6abd0f664aa380",
+"index.html": "f6d9d3b67c6ed562e546c3deeb82f5f5",
+"/": "f6d9d3b67c6ed562e546c3deeb82f5f5",
+"main.dart.js": "10ea9161abcf7b22c3d1e8571bc1d61c",
 "manifest.json": "e4be876827f8f9c7d4ae95b9c2bb9928",
-"version.json": "bc20b87cbef486725b8453fb912da3c7"
+"version.json": "6d6f69561e4ab11668116acc95cef839"
 };
 
 // The application shell files that are downloaded before a service worker can
